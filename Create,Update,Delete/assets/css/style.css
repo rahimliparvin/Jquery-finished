@@ -1,0 +1,29 @@
+
+.name{
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 400px;
+}
+
+.surname{
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 400px;
+}
+
+button{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 400px;
+
+}
+
+ul{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+li{
+    width: 400px;
+    background-color:blueviolet  !important; 
+    color: black !important;
+}

@@ -1,0 +1,35 @@
+.slider {
+    width: 1140px;
+    position: relative;
+}
+
+.slider .img {
+    width: 100%;
+}
+
+.slider .img img {
+    width: 100%;
+    position: absolute;
+    opacity: 0;
+    transition: all 1s;
+}
+
+.slider i {
+    font-size: 60px;
+    position: absolute;
+    top: 190px;
+    color: white;
+    z-index: 1;
+}
+
+.slider .right {
+    right: 10px;
+}
+
+.slider .left {
+    left: 10px;
+}
+
+.active {
+    opacity: 1 !important;
+}
